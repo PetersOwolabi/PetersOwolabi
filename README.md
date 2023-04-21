@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PetersOwolabi
 - 👀 I’m interested in Web Design and Development Projects
-- 🌱 I’m currently learning PHP and Laravel
 - 💞️ I’m looking to collaborate on projects
 - 📫 I am reachable on +2348066170229, +2348077634272 or via email petersowolabi@gmail.com
 
